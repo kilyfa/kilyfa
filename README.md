@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and AI Projects**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Data Science and Machine Learning**
 
 - 📫 How to reach me **abdulaziz77771a@gmail.com**
 
