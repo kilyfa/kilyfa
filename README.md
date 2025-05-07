@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science and AI Projects**
 
-- 💬 Ask me about **Python, Vue.js, Tailwind, Data Science, and Cloud Computing**
+- 💬 Ask me about **Data Science**
 
 - 📫 How to reach me **abdulaziz77771a@gmail.com**
 
